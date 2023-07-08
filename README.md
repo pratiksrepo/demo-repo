@@ -1,3 +1,3 @@
 # Demo
 
-hello thia my first repo  
+hello thia my first repo.  
